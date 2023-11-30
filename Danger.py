@@ -90,7 +90,6 @@ logo=("""\033[1;37m
  Github    : AADI-XD
  Facebook  : AADITYA BHUSAL 
  TOOL TYPE'S : PAID
- ---𝗩𝗔𝗚𝗬𝗔 𝗥𝗔𝗠𝗥𝗢 𝗥𝗔𝗜𝗫𝗔 AADITYA 𝗞𝗢 𝗖𝗠𝗗 𝗨𝗦𝗘 𝗚𝗔𝗥𝗡𝗔 𝗣𝗔𝗜𝗦---
 \033[1;37m----------------------------------------------""")
 
 def approval():
