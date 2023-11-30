@@ -86,7 +86,7 @@ logo=("""\033[1;37m
  Author    : AADITYA DONNA
  Github    : AADI-XD
  Facebook  : AADITYA BHUSAL 
- TOOL TYPE'S : PAID
+ TOOL TYPE'S : PAID 💖
 \033[1;37m----------------------------------------------""")
 
 def approval():
