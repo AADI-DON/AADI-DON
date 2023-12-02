@@ -83,9 +83,9 @@ logo=("""\033[1;37m
 ██║  ██║██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝                                                           
 \033[1;37m----------------------------------------------
- Author    : AADITYA DONNA
- Github    : AADI-XD
- Facebook  : AADITYA BHUSAL 
+ Author    : AADITYA BHUSAL
+ Github    : UNKNOWN 👅
+ Facebook  : AADITYA~HEROO
  TOOL TYPE'S : PAID 💖
 \033[1;37m----------------------------------------------""")
 
