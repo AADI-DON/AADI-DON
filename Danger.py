@@ -85,7 +85,7 @@ logo=("""\033[1;37m
 \033[1;37m----------------------------------------------
  Author    : AADITYA BHUSAL
  Github    : UNKNOWN 👅
- Facebook  : AADITYA~HEROO
+ Facebook  : AADITYA DON
  TOOL TYPE'S : PAID 💖
 \033[1;37m----------------------------------------------""")
 
